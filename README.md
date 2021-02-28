@@ -32,7 +32,7 @@ API Key를 발급을 받은 뒤 입금이체 API, 출금이체 API 등을 사용
 </div><br/>
 회원가입 창에서 '인증받기'를 클릭하면 Oauth2.0을 통한 개인 인증 페이지가 뜬다.<br/>
 개인 인증과 계좌 계설을 완료하고 회원가입을 하면 사용자 정보와 Access Token이 MySQL에 저장된다.<br/><br/>
-<img src="https://user-images.githubusercontent.com/45943080/109421800-2eeeb180-7a1c-11eb-899c-78f46a4d27eb.png" width="30%" height="30%"><br/>
+<div><img src="https://user-images.githubusercontent.com/45943080/109421800-2eeeb180-7a1c-11eb-899c-78f46a4d27eb.png" width="30%" height="30%"></div><br/>
 회원가입을 완료하면, Access Token을 입력하지 않아도 MySQL에 저장된 데이터를 통해 로그인을 할 수 있다.<br/><br/><br/>
 
 ## 계좌 확인 및 잔액 조회
@@ -60,7 +60,7 @@ API Key를 발급을 받은 뒤 입금이체 API, 출금이체 API 등을 사용
 </div><br/>
 큐알 코드가 인식되지 않았을 때는 왼쪽의 이미지와 같이 나타난다.<br/>
 큐알 코드가 인식되면 오른쪽 이미지와 같이 사용자가 보유한 테스트 계좌가 출력된다.<br/><br/>
-<img src="https://user-images.githubusercontent.com/45943080/109422216-f51eaa80-7a1d-11eb-84de-2cb92b858c9e.png" width="30%" height="30%"><br/>
+<div><img src="https://user-images.githubusercontent.com/45943080/109422216-f51eaa80-7a1d-11eb-84de-2cb92b858c9e.png" width="30%" height="30%"></div>
 송금하고자 하는 금액을 입력하고 보유한 계좌의 '결제하기' 버튼을 클릭하면 <br/>
 전송 완료 알림 창이 뜨고, 해당 계좌로 송금이 된다. <br/>
 
