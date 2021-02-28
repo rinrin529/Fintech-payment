@@ -41,7 +41,9 @@ API Key를 발급을 받은 뒤 입금이체 API, 출금이체 API 등을 사용
 </div><br/>
 로그인을 완료하면, 계좌를 확인할 수 있는 페이지로 넘어간다.<br/>
 오픈뱅킹 개발자 사이트에서 수행 한 사전 등록을 통해 생성한 test 계좌가 출력되는 것을 알 수 있다.<br/>
-계좌 칸 내부에 위치한 잔액 조회 버튼을 클릭하면 오픈 뱅킹의 사용자인증(3-legged)를 통하여 등록된 사용자 계좌의 금융 정보를 조회할 수 있다. 서버 단에 계좌 종류 및 상품명이 함께 전달되며 이를 출력한다.<br/><br/><br/>
+계좌 칸 내부에 위치한 잔액 조회 버튼을 클릭하면 오픈 뱅킹의 사용자인증(3-legged)를 통하여 <br/>
+등록된 사용자 계좌의 금융 정보를 조회할 수 있다. <br/>
+서버 단에 계좌 종류 및 상품명이 함께 전달되며 이를 출력한다.<br/><br/><br/>
 
 ## QR 코드 생성
 <div>
@@ -49,7 +51,7 @@ API Key를 발급을 받은 뒤 입금이체 API, 출금이체 API 등을 사용
   <img src="https://user-images.githubusercontent.com/45943080/109422175-cacced00-7a1d-11eb-9eff-7796e04cef37.png" width="30%" height="30%">
 </div><br/>
 큐알 생성 버튼을 클릭하면 사용자 정보를 담은 큐알 코드가 생성된다.<br/>
-큐알 코드 관련은 [오픈 소스](https://jeromeetienne.github.io/jquery-qrcode)를 사용했다.<br/><br/>br/>
+큐알 코드 관련은 [오픈 소스](https://jeromeetienne.github.io/jquery-qrcode) 를 사용했다.<br/><br/>br/>
 
 ## QR 코드 결제
 <div>
