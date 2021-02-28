@@ -12,7 +12,8 @@
 [은행권 공동 오픈뱅킹 API 개발자 사이트](https://developers.kftc.or.kr/dev) 이용<br/><br/>
 
 # 사전 준비
-은행권 공동 오픈뱅킹에 회원가입 한 후 프로그래밍을 위해 필요한 Access Token, API Key, API secret을 발급 받는다. 서비스 개발을 위해 임의로 생성한 고객들의 계좌에 접근할 때 서버 단에서 필요하기 때문이다.<br/>
+은행권 공동 오픈뱅킹에 회원가입 한 후 프로그래밍을 위해 필요한 Access Token, API Key, API secret을 발급 받는다. <br/>
+서비스 개발을 위해 임의로 생성한 고객들의 계좌에 접근할 때 서버 단에서 필요하기 때문이다.<br/>
 <div>
   <img src="https://user-images.githubusercontent.com/45943080/109420594-b9341700-7a16-11eb-8147-bf93059a35dd.png" width="70%" height="70%">
 </div>
