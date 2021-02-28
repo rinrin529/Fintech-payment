@@ -49,7 +49,7 @@ API Key를 발급을 받은 뒤 입금이체 API, 출금이체 API 등을 사용
   <img src="https://user-images.githubusercontent.com/45943080/109422175-cacced00-7a1d-11eb-9eff-7796e04cef37.png" width="30%" height="30%">
 </div><br/>
 큐알 생성 버튼을 클릭하면 사용자 정보를 담은 큐알 코드가 생성된다.<br/>
-[오픈 소스](http://jeromeetienne.github.com/jquery-qrcode/) 를 사용했다.<br/><br/>br/>
+큐알 코드 관련은 코드는 [오픈 소스](https://jeromeetienne.github.io/jquery-qrcode/)를 사용했다.<br/><br/>br/>
 
 ## QR 코드 결제
 <div>
