@@ -36,7 +36,7 @@ API Key를 발급을 받은 뒤 입금이체 API, 출금이체 API 등을 사용
 회원가입을 완료하면, Access Token을 입력하지 않아도 MySQL에 저장된 데이터를 통해 로그인을 할 수 있다.<br/><br/><br/>
 
 ## 계좌 확인 및 잔액 조회
-<br/><div>
+<div>
   <img src="https://user-images.githubusercontent.com/45943080/109422452-e389d280-7a1e-11eb-9e8a-d08662781b06.png" width="30%" height="30%">
   <img src="https://user-images.githubusercontent.com/45943080/109421939-ce13a900-7a1c-11eb-9e88-90a5cb58810d.png" width="30%" height="30%">
 </div><br/>
