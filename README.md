@@ -25,11 +25,11 @@ API Key를 발급을 받은 뒤 입금이체 API, 출금이체 API 등을 사용
 ## 프로젝트 구조 설명
 1. 로그인 및 회원가입
 <div>
-  <img src="https://user-images.githubusercontent.com/45943080/109421087-3496c800-7a19-11eb-8e61-76fdf372e506.png" width="25%" height="25%">
-  <img src="https://user-images.githubusercontent.com/45943080/109421130-69a31a80-7a19-11eb-8ae9-044ffb4a737e.png" width="25%" height="25%">
+  <img src="https://user-images.githubusercontent.com/45943080/109421672-9fe19980-7a1b-11eb-913a-065d1ebc5180.png" width="50%" height="50%">
+  <img src="https://user-images.githubusercontent.com/45943080/109421705-c0115880-7a1b-11eb-9c59-31783c0b726a.png" width="50%" height="50%">
 </div><br/>
-회원가입 창에서 인증하기를 클릭하면 Oauth2.0을 통한 개인 인증 페이지가 뜬다. 개인 인증과 계좌 계설을 완료하고 회원가입을 하면 사용자 정보와 Access Token이 MySQL에 저장된다.
-<img src="https://user-images.githubusercontent.com/45943080/109421164-91927e00-7a19-11eb-93a5-87de0ab8d01f.png" width="25%" height="25%"><br/>
+회원가입 창에서 '인증받기'를 클릭하면 Oauth2.0을 통한 개인 인증 페이지가 뜬다. 개인 인증과 계좌 계설을 완료하고 회원가입을 하면 사용자 정보와 Access Token이 MySQL에 저장된다.
+<img src="https://user-images.githubusercontent.com/45943080/109421717-d5868280-7a1b-11eb-9b48-7e543aa0e48b.png" width="50%" height="50%"><br/>
 회원가입을 완료하면, Access Token을 입력하지 않아도 MySQL에 저장된 데이터를 통해 로그인을 할 수 있다.
 
 
