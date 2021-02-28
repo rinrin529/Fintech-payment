@@ -1,6 +1,6 @@
 <br/><h1 align="center">Fintech payment</h1>
 은행권 공동 오픈뱅킹 API를 사용하여 간편 결재 프로그램을 구현했다.<br/>
-해당 프로그램의 기능으로는 잔액 충전, QR 코드를 통한 결제 구현, 잔액 조회가 있다.<br/><br/>
+해당 프로그램의 기능으로는 사용자 정보를 담은 QR 코드 생성 QR 코드를 통한 결제 구현, 잔액 조회가 있다.<br/><br/>
 
 - 개발 환경
 
@@ -47,7 +47,7 @@ API Key를 발급을 받은 뒤 입금이체 API, 출금이체 API 등을 사용
 ## QR 코드 생성
 <div>
   <img src="https://user-images.githubusercontent.com/45943080/109422460-f2708500-7a1e-11eb-9411-230d88ca0342.png" width="30%" height="30%">
-  <img src="https://user-images.githubusercontent.com/45943080/109423089-86435080-7a21-11eb-802a-8974b75b1519.png" height="30%">
+  <img src="https://user-images.githubusercontent.com/45943080/109423089-86435080-7a21-11eb-802a-8974b75b1519.png" width="30%" height="30%">
 </div><br/>
 큐알 생성 버튼을 클릭하면 사용자 정보를 담은 큐알 코드가 생성된다.<br/>
 큐알 코드 관련은 [오픈 소스](https://jeromeetienne.github.io/jquery-qrcode) 를 사용했다.<br/><br/><br/>
@@ -61,6 +61,6 @@ API Key를 발급을 받은 뒤 입금이체 API, 출금이체 API 등을 사용
 큐알 코드가 인식되면 오른쪽 이미지와 같이 사용자가 보유한 테스트 계좌가 출력된다.<br/>
 <img src="https://user-images.githubusercontent.com/45943080/109422216-f51eaa80-7a1d-11eb-84de-2cb92b858c9e.png" width="30%" height="30%"><br/>
 송금하고자 하는 금액을 입력하고 보유한 계좌의 '결제하기' 버튼을 클릭하면 <br/>
-해당 계좌로 송금이 된다. <br/>
+전송 완료 알림 창이 뜨고, 해당 계좌로 송금이 된다. <br/>
 
 
