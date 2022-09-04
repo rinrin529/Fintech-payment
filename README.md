@@ -1,6 +1,5 @@
 # 🔹 Fintech payment
 
----
 
 `MySQL` `ExpressJS` `Node JS` `Bootstrap` `Jquery`
 
