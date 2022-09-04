@@ -1,13 +1,12 @@
-<br/><h1 align="center">Fintech payment</h1>
-은행권 공동 오픈뱅킹 API를 사용하여 간편 결재 프로그램을 구현했다.<br/>
-프로그램의 기능으로는 사용자 정보를 담은 QR 코드 생성, QR 코드를 통한 결제 구현, 잔액 조회가 있다.<br/><br/>
+# 🔹 Fintech payment
 
-- 개발 환경
+---
 
+`MySQL` `ExpressJS` `Node JS` `Bootstrap` `Jquery`
 
-| DBMS | Server Side | Front-End |
-|:----:|:----:|:----:|
-| MySQL | ExpressJS, NODE JS | Bootstrap, Jqeury|
+은행권 공동 오픈뱅킹 API를 사용하여 간편 결재 프로그램 구축
+
+주요 기능: 사용자 정보를 담은 QR 코드 생성, QR 코드를 통한 결제 구현, 잔액 조회<br/><br/>
 
 [은행권 공동 오픈뱅킹 API 개발자 사이트](https://developers.kftc.or.kr/dev) 이용<br/><br/>
 
